@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonkeyKong1021
 - 👀 I’m interested in Quantitative Finance and Python
-- 🌱 I’m currently learning a variety of Python Scripts.
+- 🌱 I’m currently learning about Machine Learning.
 - 📫 How to reach me drewkulas@yahoo.com
 
 <!---
